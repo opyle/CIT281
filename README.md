@@ -1,7 +1,6 @@
 # CIT281
 
-[![Mountain Picture](http://[url/to/img.png](https://unsplash.com/photos/a-person-is-skiing-down-a-snowy-mountain-KuxHppcRtW4))
-](https://images.unsplash.com/photo-1717158082997-97d18efbd633?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![image](https://github.com/opyle/CIT281/assets/166080658/d632ac2f-aa0c-46ee-ab89-c7ba54dd742f)
 
 Repository of all **CIT 281** projects 
 
