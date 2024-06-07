@@ -1,11 +1,11 @@
 # CIT281
 
-![Mountain Picture](http://[url/to/img.png](https://unsplash.com/photos/a-person-is-skiing-down-a-snowy-mountain-KuxHppcRtW4))
-
+[![Mountain Picture](http://[url/to/img.png](https://unsplash.com/photos/a-person-is-skiing-down-a-snowy-mountain-KuxHppcRtW4))
+](https://images.unsplash.com/photo-1717158082997-97d18efbd633?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Repository of all **CIT 281** projects 
 
-This file contains links to the following projects, *in order of assignment;
+This file contains links to the following projects, *in order of assignment*;
 
 [**Project 1**](https://github.com/opyle/cit281-p1.git) : Interacting with CLI of operating system and create folders like a tree like structure. lab-01.zip, p1-folders.png, p1-tree.png, p1-break.png, p1-ping.png, p1-date.js, p1-random.js
 
