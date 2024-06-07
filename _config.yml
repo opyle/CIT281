@@ -1,17 +1,5 @@
-Repository of all CIT 281 projects
-
-This file contains links to the following projects:
-
-[p1] : Interacting with CLI of operating system and create folders like a tree like structure. lab-01.zip, p1-folders.png, p1-tree.png, p1-break.png, p1-ping.png, p1-date.js, p1-random.js
-
-[Project 2]: Refactoring the JS program from project 1 & to use git through vscode. lab-02.zip, refactor/p2-random.js, refactor/p2-random-files.txt, refactor/p2-random-commits.txt, refactor/p2-expressions.js, refactor/.gitignore, refactor/p2-vscode-diff.png
-
-[Project 3]: Coinage code module. p3-module.js, p3-server.js, index.html, package.json, .gitignore
-
-[Project 4]: REST API that interacts with data. lab-05.zip, p4-data.js, p4-module.js, p4-server.js, package.json
-
-[Project 5]: Monster game. lab-06.zip, p5.js, p5-monster-game.js, p5-monster.js
-
-[Project 6]: Class functions involving shapes. lab-07.zip, p6.js
-
-[Project 7]: GitHub repository of CIT 281
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [CIT 281]
+description: [This repository links to all CIT281 Projects and labs from Spring 2024]
