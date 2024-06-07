@@ -3,7 +3,7 @@ Repository of all CIT 281 projects
 
 This file contains links to the following projects:
 
-[p1] : Interacting with CLI of operating system and create folders like a tree like structure. lab-01.zip, p1-folders.png, p1-tree.png, p1-break.png, p1-ping.png, p1-date.js, p1-random.js
+[p1](https://github.com/opyle/cit281-p1.git) : Interacting with CLI of operating system and create folders like a tree like structure. lab-01.zip, p1-folders.png, p1-tree.png, p1-break.png, p1-ping.png, p1-date.js, p1-random.js
 
 [cit281-lab1] 
 
