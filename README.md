@@ -1,4 +1,8 @@
 # CIT281
+
+![Mountain Picture](http://[url/to/img.png](https://unsplash.com/photos/a-person-is-skiing-down-a-snowy-mountain-KuxHppcRtW4))
+
+
 Repository of all **CIT 281** projects 
 
 This file contains links to the following projects, *in order of assignment;
